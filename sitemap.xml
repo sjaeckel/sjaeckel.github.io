@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://sjaeckel.github.io/blog/2014/05/16/RGB-Led-Protocol/</loc>
+        <lastmod>2014-05-18T13:32:22+02:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://sjaeckel.github.io/blog/2014/05/18/Setup-your-Adafruit-Flora-with-Arduino-1.5.5-and-Arduino-Eclipse/
+        </loc>
+        <lastmod>2014-05-18T18:52:32+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://sjaeckel.github.io/</loc>
+        <lastmod>2014-05-18T18:52:32+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://sjaeckel.github.io/blog/archives/</loc>
+        <lastmod>2014-05-18T18:52:32+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://sjaeckel.github.io/robots.txt</loc>
+        <lastmod>2014-05-18T18:52:32+02:00</lastmod>
+    </url>
+</urlset>
