@@ -60,6 +60,9 @@
 <ul class="main-navigation">
   <li><a href="/">Blog</a></li>
   <li><a href="/blog/archives">Archives</a></li>
+  
+  <li><a href="https://github.com/sjaeckel">My GitHub</a></li>
+  
 </ul>
 
 </nav>
@@ -254,44 +257,6 @@
 
     </article>
   
-  
-    <article>
-      
-  <header>
-    
-      <h1 class="entry-title"><a href="/blog/2014/05/16/RGB-Led-Protocol/">Rgb Led Protocol</a></h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2014-05-16T00:00:00+02:00" pubdate data-updated="true"></time>
-        
-      </p>
-    
-  </header>
-
-
-  <div class="entry-content"><h1>A protocol to control an array of RGB LED&rsquo;s</h1>
-
-<p><a href="http://picprojects.org.uk/projects/zcode/sadpktformat.htm">http://picprojects.org.uk/projects/zcode/sadpktformat.htm</a></p>
-</div>
-  
-  
-
-
-    </article>
-  
   <div class="pagination">
     
     <a href="/blog/archives">Blog Archives</a>
@@ -308,11 +273,36 @@
         <a href="/blog/2014/05/18/Setup-your-Adafruit-Flora-with-Arduino-1.5.5-and-Arduino-Eclipse/">Setup Your Adafruit Flora With Arduino 1.5.5 And Arduino Eclipse</a>
       </li>
     
-      <li class="post">
-        <a href="/blog/2014/05/16/RGB-Led-Protocol/">Rgb Led Protocol</a>
-      </li>
-    
   </ul>
+</section>
+
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating&#8230;</li>
+  </ul>
+  
+  <a href="https://github.com/sjaeckel">@sjaeckel</a> on GitHub
+  
+  <script type="text/javascript">
+    $(document).ready(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'sjaeckel',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
 </section>
 
 

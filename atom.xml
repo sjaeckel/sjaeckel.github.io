@@ -4,7 +4,7 @@
   <title><![CDATA[wisely untitled]]></title>
   <link href="http://sjaeckel.github.io/atom.xml" rel="self"/>
   <link href="http://sjaeckel.github.io/"/>
-  <updated>2014-05-18T18:54:56+02:00</updated>
+  <updated>2014-05-19T12:26:53+02:00</updated>
   <id>http://sjaeckel.github.io/</id>
   <author>
     <name><![CDATA[Steffen Jaeckel]]></name>
@@ -169,17 +169,6 @@
 <p><a name="matthewarcus-funwithflora"/><a href="http://matthewarcus.wordpress.com/2013/05/18/fun-with-flora">[5] http://matthewarcus.wordpress.com/2013/05/18/fun-with-flora</a></p>
 
 <p><a name="arduino-eclipse-install"/><a href="http://www.baeyens.it/eclipse/installAdvice.shtml">[6] http://www.baeyens.it/eclipse/installAdvice.shtml</a></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Rgb Led Protocol]]></title>
-    <link href="http://sjaeckel.github.io/blog/2014/05/16/RGB-Led-Protocol/"/>
-    <updated>2014-05-16T00:00:00+02:00</updated>
-    <id>http://sjaeckel.github.io/blog/2014/05/16/RGB-Led-Protocol</id>
-    <content type="html"><![CDATA[<h1>A protocol to control an array of RGB LED&rsquo;s</h1>
-
-<p><a href="http://picprojects.org.uk/projects/zcode/sadpktformat.htm">http://picprojects.org.uk/projects/zcode/sadpktformat.htm</a></p>
 ]]></content>
   </entry>
   
